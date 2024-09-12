@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|c:\\users\\223139002\\source\\repos\\stress-analysis-automation\\mycad\\entryforms\\input_values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\entryforms\\input_values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\mycad\\entryforms\\input_values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\entryforms\\input_values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\mycad\\sqlite\\sqlitescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\sqlite\\sqlitescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\mycad\\graphicsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\graphicsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|c:\\users\\223139002\\source\\repos\\stress-analysis-automation\\mycad\\entryforms\\setmaterialform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\entryforms\\setmaterialform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|c:\\users\\223139002\\source\\repos\\stress-analysis-automation\\mycad\\entryforms\\setmaterialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7746AF10-EE54-4CFD-904B-55B371B5AF5C}|MyCAD\\Stress Analysis Automation.csproj|solutionrelative:mycad\\entryforms\\setmaterialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1242987362:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:769331036:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:375822477:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:782809002:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SetMaterialForm.cs",
+              "DocumentMoniker": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\SetMaterialForm.cs",
+              "RelativeDocumentMoniker": "MyCAD\\EntryForms\\SetMaterialForm.cs",
+              "ToolTip": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\SetMaterialForm.cs",
+              "RelativeToolTip": "MyCAD\\EntryForms\\SetMaterialForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:25:35.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetMaterialForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\SetMaterialForm.Designer.cs",
+              "RelativeDocumentMoniker": "MyCAD\\EntryForms\\SetMaterialForm.Designer.cs",
+              "ToolTip": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\SetMaterialForm.Designer.cs",
+              "RelativeToolTip": "MyCAD\\EntryForms\\SetMaterialForm.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAUwA0BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T14:23:48.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicsForm.cs",
+              "DocumentMoniker": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\GraphicsForm.cs",
+              "RelativeDocumentMoniker": "MyCAD\\GraphicsForm.cs",
+              "ToolTip": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\GraphicsForm.cs",
+              "RelativeToolTip": "MyCAD\\GraphicsForm.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAnwBIBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:27:22.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input_Values.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\Input_Values.cs",
+              "RelativeDocumentMoniker": "MyCAD\\EntryForms\\Input_Values.cs",
+              "ToolTip": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\Input_Values.cs [Design]",
+              "RelativeToolTip": "MyCAD\\EntryForms\\Input_Values.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:17:20.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Input_Values.cs",
+              "DocumentMoniker": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\Input_Values.cs",
+              "RelativeDocumentMoniker": "MyCAD\\EntryForms\\Input_Values.cs",
+              "ToolTip": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\EntryForms\\Input_Values.cs",
+              "RelativeToolTip": "MyCAD\\EntryForms\\Input_Values.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAgwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:17:43.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLiteScript.cs",
+              "DocumentMoniker": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\SQLite\\SQLiteScript.cs",
+              "RelativeDocumentMoniker": "MyCAD\\SQLite\\SQLiteScript.cs",
+              "ToolTip": "C:\\Users\\223139002\\source\\repos\\Stress-Analysis-Automation\\MyCAD\\SQLite\\SQLiteScript.cs",
+              "RelativeToolTip": "MyCAD\\SQLite\\SQLiteScript.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAJQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:14:43.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
